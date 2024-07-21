@@ -1,4 +1,4 @@
-# Users Journery Analaysis
+# User Journery Analaysis
 
 
 
